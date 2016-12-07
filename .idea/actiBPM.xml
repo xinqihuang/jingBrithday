@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BPMNEditorStateService">
+    <stateFile url="file://$PROJECT_DIR$/src/main/java/edu/csu/huangxinqi/leave.bpmn.xml">
+      <view grid="false" />
+    </stateFile>
+  </component>
+</project>
