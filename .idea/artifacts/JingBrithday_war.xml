@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="JingBrithday:war">
-    <output-path>$PROJECT_DIR$/out/artifacts/JingBrithday_war</output-path>
-    <root id="archive" name="JingBrithday_war.war">
-      <element id="artifact" artifact-name="JingBrithday:war exploded" />
-    </root>
-  </artifact>
-</component>
