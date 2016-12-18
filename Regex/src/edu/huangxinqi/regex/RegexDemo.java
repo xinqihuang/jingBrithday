@@ -8,7 +8,6 @@ import java.util.regex.Pattern;
  * Created by huangxinqi on 2016/12/17/0017.
  */
 public class RegexDemo {
-    private static final String REGEX ="/w";
 
     public static void main(String[] args) {
         System.out.println("please input your regex");
@@ -18,7 +17,7 @@ public class RegexDemo {
         String example =scanner.nextLine();
         Pattern pattern=Pattern.compile(regex);
         Matcher matcher=pattern.matcher(example);
-        System.out.println(matcher.find());
+        System.out.println(matcher.matches());
 
     }
 }
